@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="BarTesting" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-12-03T15:57:59" hostname="DESKTOP-6QRG024" time="0.031">
+  <properties/>
+  <testcase name="happyHour()" classname="BarTesting" time="0.031"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
