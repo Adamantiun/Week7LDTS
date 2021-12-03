@@ -1,5 +1,5 @@
-public class StringTransformer {
-    void execute(StringDrink drink) {
+public interface StringTransformer {
+    void execute(StringDrink drink);
 
-    }
+    void undo(StringDrink drink);
 }

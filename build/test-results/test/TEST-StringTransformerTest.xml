@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="StringTransformerTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-12-03T14:30:00" hostname="DESKTOP-6QRG024" time="0.094">
-  <properties/>
-  <testcase name="stringDrink()" classname="StringTransformerTest" time="0.094"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
