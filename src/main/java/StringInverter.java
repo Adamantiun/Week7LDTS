@@ -12,5 +12,4 @@ public class StringInverter implements StringTransformer{
     public void undo(StringDrink drink) {
         execute(drink);
     }
-
 }

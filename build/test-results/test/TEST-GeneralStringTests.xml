@@ -1,11 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="GeneralStringTests" tests="6" skipped="0" failures="0" errors="0" timestamp="2021-12-03T15:29:06" hostname="DESKTOP-6QRG024" time="0.062">
+<testsuite name="GeneralStringTests" tests="9" skipped="0" failures="0" errors="0" timestamp="2021-12-03T15:39:52" hostname="DESKTOP-6QRG024" time="0.063">
   <properties/>
-  <testcase name="stringReplacer()" classname="GeneralStringTests" time="0.035"/>
-  <testcase name="transformUndo()" classname="GeneralStringTests" time="0.016"/>
+  <testcase name="stringReplacer()" classname="GeneralStringTests" time="0.034"/>
+  <testcase name="transformUndo()" classname="GeneralStringTests" time="0.011"/>
   <testcase name="stringDrink()" classname="GeneralStringTests" time="0.001"/>
   <testcase name="stringInverter()" classname="GeneralStringTests" time="0.001"/>
-  <testcase name="stringRecipe()" classname="GeneralStringTests" time="0.003"/>
+  <testcase name="transformerGroupUndo()" classname="GeneralStringTests" time="0.003"/>
+  <testcase name="transformerGroup()" classname="GeneralStringTests" time="0.001"/>
+  <testcase name="transformerComposite()" classname="GeneralStringTests" time="0.002"/>
+  <testcase name="stringRecipe()" classname="GeneralStringTests" time="0.001"/>
   <testcase name="stringCaseChanger()" classname="GeneralStringTests" time="0.001"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
