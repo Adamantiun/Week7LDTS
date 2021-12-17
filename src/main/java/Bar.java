@@ -1,5 +1,6 @@
 import jdk.dynalink.linker.LinkerServices;
 
+import java.util.ArrayList;
 import java.util.List;
 
 public abstract class Bar {
