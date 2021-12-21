@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="BarTesting" tests="7" skipped="0" failures="0" errors="0" timestamp="2021-12-21T00:03:11" hostname="DESKTOP-6QRG024" time="1.212">
+<testsuite name="BarTesting" tests="7" skipped="0" failures="0" errors="0" timestamp="2021-12-21T00:09:52" hostname="DESKTOP-6QRG024" time="1.082">
   <properties/>
-  <testcase name="happyHour()" classname="BarTesting" time="0.026"/>
-  <testcase name="impatientStrategy()" classname="BarTesting" time="0.029"/>
-  <testcase name="removeObserver()" classname="BarTesting" time="1.116"/>
-  <testcase name="smartStrategyStartClosed()" classname="BarTesting" time="0.003"/>
-  <testcase name="smartStrategyStartOpened()" classname="BarTesting" time="0.003"/>
-  <testcase name="addObserver()" classname="BarTesting" time="0.021"/>
-  <testcase name="orderStringRecipe()" classname="BarTesting" time="0.001"/>
+  <testcase name="happyHour()" classname="BarTesting" time="0.002"/>
+  <testcase name="impatientStrategy()" classname="BarTesting" time="0.003"/>
+  <testcase name="removeObserver()" classname="BarTesting" time="1.041"/>
+  <testcase name="smartStrategyStartClosed()" classname="BarTesting" time="0.001"/>
+  <testcase name="smartStrategyStartOpened()" classname="BarTesting" time="0.001"/>
+  <testcase name="addObserver()" classname="BarTesting" time="0.024"/>
+  <testcase name="orderStringRecipe()" classname="BarTesting" time="0.002"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
