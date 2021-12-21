@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="GeneralStringTests" tests="9" skipped="0" failures="0" errors="0" timestamp="2021-12-17T13:03:25" hostname="DESKTOP-6QRG024" time="0.029">
+<testsuite name="GeneralStringTests" tests="9" skipped="0" failures="0" errors="0" timestamp="2021-12-21T00:03:13" hostname="DESKTOP-6QRG024" time="0.065">
   <properties/>
   <testcase name="stringReplacer()" classname="GeneralStringTests" time="0.001"/>
-  <testcase name="transformUndo()" classname="GeneralStringTests" time="0.0"/>
+  <testcase name="transformUndo()" classname="GeneralStringTests" time="0.001"/>
   <testcase name="stringDrink()" classname="GeneralStringTests" time="0.001"/>
   <testcase name="stringInverter()" classname="GeneralStringTests" time="0.001"/>
-  <testcase name="transformerGroupUndo()" classname="GeneralStringTests" time="0.011"/>
-  <testcase name="transformerGroup()" classname="GeneralStringTests" time="0.0"/>
-  <testcase name="transformerComposite()" classname="GeneralStringTests" time="0.001"/>
-  <testcase name="stringRecipe()" classname="GeneralStringTests" time="0.0"/>
-  <testcase name="stringCaseChanger()" classname="GeneralStringTests" time="0.003"/>
+  <testcase name="transformerGroupUndo()" classname="GeneralStringTests" time="0.05"/>
+  <testcase name="transformerGroup()" classname="GeneralStringTests" time="0.001"/>
+  <testcase name="transformerComposite()" classname="GeneralStringTests" time="0.002"/>
+  <testcase name="stringRecipe()" classname="GeneralStringTests" time="0.001"/>
+  <testcase name="stringCaseChanger()" classname="GeneralStringTests" time="0.002"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
